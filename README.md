@@ -29,7 +29,9 @@ To initially train a model for 5 rounds with 200 episodes and 800 iterations of 
 python3 driver.py 5 200 800 0 train random random
 
 The pit protocol takes either:
+
 1: a single neural network's path to be loaded and plays it against a random agent
+
 2: two neural network paths to be loaded and played against one another
 
 The strategies are then pitted against one another equal to the number of episodes input in the command line argument
