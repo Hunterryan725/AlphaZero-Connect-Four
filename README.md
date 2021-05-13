@@ -3,12 +3,19 @@
 This is an implementation of the AlphaZero protocol developed by DeepMind to play ConnectFour. 
 
 The driver.py file is used to call the AlphaZero protocol and takes 7 additional command line arguments
+
 argument 1: # Total rounds of training to perform
+
 argument 2: # Total number of episodes to be run
+
 argument 3: # Total number of iterations
+
 argument 4: # Duplicate data using symmetry
+
 argument 5: # Either train or pit
+
 argument 6: # Either nn or random
+
 argument 7: # Either nn or random
 
 The train protocol takes the number of rounds, episodes, and iterations and finds the most recent model trained 
