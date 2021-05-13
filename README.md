@@ -29,6 +29,6 @@ The strategies are then pitted against one another equal to the number of episod
 
 python3 driver.py 5 250 400 1 pit Models/checkpoint_3_250_800_0.pth Models/checkpoint_3_250_800_0.pth
 
-Special credit to implementations of AlphaZero by https://web.stanford.edu/~surag/posts/alphazero.html and 
+Special thanks to implementations of AlphaZero by https://web.stanford.edu/~surag/posts/alphazero.html and 
 https://towardsdatascience.com/from-scratch-implementation-of-alphazero-for-connect4-f73d4554002a that helped tremendously
 in this process
